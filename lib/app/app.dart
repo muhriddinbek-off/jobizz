@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:jobee/cubit/onboarding/onboarding_cubit.dart';
 import 'package:jobee/screens/routes_screen.dart';
-import 'package:jobee/tools/colors/app_colors.dart';
+import 'package:jobee/tools/theme/app_theme.dart';
 
 class App extends StatelessWidget {
   const App({super.key});
@@ -31,10 +31,7 @@ class MyApp extends StatelessWidget {
       builder: (context, child) {
         return MaterialApp(
           title: "Jobizz",
-          theme: ThemeData(
-            scaffoldBackgroundColor: AppColors.bgColor,
-            useMaterial3: true,
-          ),
+          theme: AppTheme.getAppTheme,
           debugShowCheckedModeBanner: false,
           initialRoute: RoutesName.splash,
           onGenerateRoute: RoutesScreen.appRoutes,
