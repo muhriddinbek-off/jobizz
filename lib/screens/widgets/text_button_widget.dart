@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:jobee/tools/app_styles.dart';
+import 'package:jobee/tools/styles/app_styles.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
 
 class TextButtonWidget extends StatelessWidget {

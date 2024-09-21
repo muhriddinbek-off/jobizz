@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:jobee/tools/app_colors.dart';
-import 'package:jobee/tools/app_size.dart';
-import 'package:jobee/tools/app_styles.dart';
+import 'package:jobee/tools/colors/app_colors.dart';
+import 'package:jobee/tools/size/app_size.dart';
+import 'package:jobee/tools/styles/app_styles.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
 
 class ButtonWidget extends StatelessWidget {

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:jobee/screens/routes_screen.dart';
-import 'package:jobee/tools/app_colors.dart';
-import 'package:jobee/tools/app_images.dart';
-import 'package:jobee/tools/app_size.dart';
+import 'package:jobee/tools/colors/app_colors.dart';
+import 'package:jobee/tools/images/app_images.dart';
+import 'package:jobee/tools/size/app_size.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});

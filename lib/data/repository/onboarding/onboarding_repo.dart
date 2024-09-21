@@ -1,4 +1,4 @@
-import 'package:jobee/tools/app_images.dart';
+import 'package:jobee/tools/images/app_images.dart';
 
 class OnboardingRepo {
   final String img;

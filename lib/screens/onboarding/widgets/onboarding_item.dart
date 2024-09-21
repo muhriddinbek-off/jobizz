@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:jobee/tools/app_colors.dart';
-import 'package:jobee/tools/app_size.dart';
-import 'package:jobee/tools/app_styles.dart';
+import 'package:jobee/tools/colors/app_colors.dart';
+import 'package:jobee/tools/size/app_size.dart';
+import 'package:jobee/tools/styles/app_styles.dart';
 
 class OnboardingItem extends StatelessWidget {
   final String img;
