@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:jobee/cubit/main/main_cubit.dart';
 import 'package:jobee/cubit/onboarding/onboarding_cubit.dart';
 import 'package:jobee/screens/routes_screen.dart';
 import 'package:jobee/tools/theme/app_theme.dart';
@@ -13,6 +14,7 @@ class App extends StatelessWidget {
     return MultiBlocProvider(
       providers: [
         BlocProvider(create: (context) => OnboardingCubit()),
+        BlocProvider(create: (context) => MainCubit()),
       ],
       child: const MyApp(),
     );

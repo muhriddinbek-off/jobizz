@@ -86,7 +86,9 @@ class _SignInState extends State<SignIn> {
                 ButtonWidget(
                   width: width,
                   title: "Register",
-                  onTap: () {},
+                  onTap: () {
+                    Navigator.pushNamed(context, RoutesName.main);
+                  },
                 ),
                 const Spacer(),
                 Row(
