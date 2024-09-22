@@ -7,6 +7,7 @@ class AppImages {
 
   static String brandLogo = "assets/images/brand_logo.png";
   static String banner = "assets/images/banner.png";
+  static String freeTime = "assets/images/free_time.png";
 
   //  onboarding png
   static String ellipse = "assets/images/ellipse.png";

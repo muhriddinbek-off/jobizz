@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:jobee/data/models/employer/employer_model.dart';
+import 'package:jobee/data/repository/saved/saved_list.dart';
 import 'package:jobee/screens/main/screens/home/widgets/job_detail_stack.dart';
 import 'package:jobee/screens/widgets/button_widget.dart';
 import 'package:jobee/tools/colors/app_colors.dart';
@@ -43,7 +44,18 @@ class JobDetail extends StatelessWidget {
                       ),
                       ZoomTapAnimation(
                         child: IconButton(
-                          onPressed: () {},
+                          onPressed: () {
+                            saveds.add(employer);
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              SnackBar(
+                                behavior: SnackBarBehavior.floating,
+                                margin: EdgeInsets.all(20.h),
+                                backgroundColor: AppColors.c0E9D572,
+                                duration: const Duration(seconds: 1),
+                                content: const Text("saved successfully"),
+                              ),
+                            );
+                          },
                           icon: SvgPicture.asset(
                             AppImages.bookmarkAdd,
                             colorFilter: ColorFilter.mode(AppColors.white, BlendMode.srcIn),
