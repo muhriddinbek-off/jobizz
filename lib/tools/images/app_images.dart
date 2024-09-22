@@ -1,7 +1,12 @@
 class AppImages {
+  //  jpg images ---------
+
+  static String avatarDefault = "assets/images/avatar_default.jpg";
+
   //  png images and icons  --------
 
   static String brandLogo = "assets/images/brand_logo.png";
+  static String banner = "assets/images/banner.png";
 
   //  onboarding png
   static String ellipse = "assets/images/ellipse.png";
@@ -59,7 +64,7 @@ class AppImages {
 
   // Others icons svg
 
-  static String search = "assets/icons/searcg.svg";
+  static String search = "assets/icons/search.svg";
   static String filter = "assets/icons/filter.svg";
   static String bookmarkAdd = "assets/icons/bookmark_add.svg";
   static String editSquare = "assets/icons/edit_square.svg";

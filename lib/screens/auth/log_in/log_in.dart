@@ -23,7 +23,9 @@ class _SignInState extends State<LogIn> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        leading: const BackWidget(),
+        leading: BackWidget(
+          color: AppColors.black,
+        ),
       ),
       body: Padding(
         padding: EdgeInsets.symmetric(horizontal: 20.w),
