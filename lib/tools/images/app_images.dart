@@ -8,6 +8,8 @@ class AppImages {
   static String brandLogo = "assets/images/brand_logo.png";
   static String banner = "assets/images/banner.png";
   static String freeTime = "assets/images/free_time.png";
+  static String employer = "assets/images/employer.png";
+  static String findJob = "assets/images/find_job.png";
 
   //  onboarding png
   static String ellipse = "assets/images/ellipse.png";

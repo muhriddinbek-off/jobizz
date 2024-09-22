@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:jobee/cubit/job_category_select/job_category_select_cubit.dart';
 import 'package:jobee/cubit/jobs_category/jobs_category_cubit.dart';
 import 'package:jobee/cubit/main/main_cubit.dart';
 import 'package:jobee/cubit/onboarding/onboarding_cubit.dart';
@@ -17,6 +18,7 @@ class App extends StatelessWidget {
         BlocProvider(create: (context) => OnboardingCubit()),
         BlocProvider(create: (context) => MainCubit()),
         BlocProvider(create: (context) => JobsCategoryCubit()),
+        BlocProvider(create: (context) => JobCategorySelectCubit()),
       ],
       child: const MyApp(),
     );

@@ -22,6 +22,7 @@ class _BookmarkScreenState extends State<BookmarkScreen> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
+        leading: const SizedBox(),
         title: Text(
           "Saved",
           style: AppStyles.semiBold16().copyWith(

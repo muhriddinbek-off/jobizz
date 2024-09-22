@@ -1,0 +1,4 @@
+#Sun Sep 22 23:18:36 UZT 2024
+base.0=/Users/developer/Desktop/flutter_apps/jobizz/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
