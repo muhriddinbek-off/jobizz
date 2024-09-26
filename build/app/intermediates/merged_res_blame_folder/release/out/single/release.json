@@ -124,6 +124,10 @@
         "source": "com.example.jobee.app-fragment-1.7.1-16:/anim-v21/fragment_fast_out_extra_slow_in.xml"
     },
     {
+        "merged": "com.example.jobee.app-merged_res-29:/xml_flutter_image_picker_file_paths.xml.flat",
+        "source": "com.example.jobee.app-packaged_res-32:/xml/flutter_image_picker_file_paths.xml"
+    },
+    {
         "merged": "com.example.jobee.app-merged_res-29:/drawable-xxxhdpi-v4_ic_call_answer_low.png.flat",
         "source": "com.example.jobee.app-core-1.13.1-18:/drawable-xxxhdpi-v4/ic_call_answer_low.png"
     },

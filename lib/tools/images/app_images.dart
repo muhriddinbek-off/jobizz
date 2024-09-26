@@ -10,6 +10,7 @@ class AppImages {
   static String freeTime = "assets/images/free_time.png";
   static String employer = "assets/images/employer.png";
   static String findJob = "assets/images/find_job.png";
+  static String dashedBorder = "assets/images/dashed_border.png";
 
   //  onboarding png
   static String ellipse = "assets/images/ellipse.png";
@@ -90,4 +91,6 @@ class AppImages {
   static String mail = "assets/icons/mail.svg";
   static String password = "assets/icons/password.svg";
   static String eye = "assets/icons/eye.svg";
+  static String send = "assets/icons/send.svg";
+  static String celect = "assets/icons/select.svg";
 }

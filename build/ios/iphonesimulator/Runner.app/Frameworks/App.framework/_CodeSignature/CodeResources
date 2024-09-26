@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		K7WXu/gxp+zYKOOx7l+Rl7ikZgs=
+		24YWlAOeMSn6iC1ALV9NErcx280=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		BZxHlZRugSR2Gr2w9A4uPsrxuE4=
+		+k7lV7/xee7dB4CEmLG3eYhuS/Q=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		UKX/WPoYrzd7dSuMp+M5QvWUfr8=
+		QhHDrtNnOvB7Vzo+OS5QKH3FTD0=
 		</data>
 		<key>flutter_assets/assets/fonts/Poppins-Bold.ttf</key>
 		<data>
@@ -204,6 +204,14 @@
 		<data>
 		dz9vy5T1eRC5zlFC6Kdo9KzA9vc=
 		</data>
+		<key>flutter_assets/assets/images/avatar_default.jpg</key>
+		<data>
+		bynIJbBUx3rpfXpwhJOmS1mhTzQ=
+		</data>
+		<key>flutter_assets/assets/images/banner.png</key>
+		<data>
+		Ezp9N9+I4beruddzlQB5H7bpWo8=
+		</data>
 		<key>flutter_assets/assets/images/brand_logo.png</key>
 		<data>
 		+QgZ31NuujwQMpLw93FrseK3scE=
@@ -211,6 +219,10 @@
 		<key>flutter_assets/assets/images/contract.png</key>
 		<data>
 		ZxVEYWOzZs/4j3rZEpYF9Lzi5mE=
+		</data>
+		<key>flutter_assets/assets/images/dashed_border.png</key>
+		<data>
+		d6KtBVqrYXuwO39ffCCUg6DLBzo=
 		</data>
 		<key>flutter_assets/assets/images/designer.png</key>
 		<data>
@@ -223,6 +235,18 @@
 		<key>flutter_assets/assets/images/ellipse.png</key>
 		<data>
 		0y45uBgnGfOTa/33M6P2Z0GYWyU=
+		</data>
+		<key>flutter_assets/assets/images/employer.png</key>
+		<data>
+		N5J4TvqPiMPeh5apxylY2wZ0mv8=
+		</data>
+		<key>flutter_assets/assets/images/find_job.png</key>
+		<data>
+		i1NjRPoeXSDLrpRX4rDkLbev5OY=
+		</data>
+		<key>flutter_assets/assets/images/free_time.png</key>
+		<data>
+		tg7XrJbwU0HKJdavn3T4kIc86oY=
 		</data>
 		<key>flutter_assets/assets/images/freelance.png</key>
 		<data>
@@ -286,7 +310,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		jnjWflelmQNNQU/nQH7pdG0dSdU=
+		IpoU1e+Qq55NqcQYNZ4m74NKSvc=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -307,14 +331,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kZjAS3KyNnhg0gJx1CqhRm2ZYbKstrR6n9zXHbAVzvY=
+			vALfBQhs0YhB7yt3jMvX4tvjnq8Q4P6CqPfjDIP+9XY=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g5+fU8P09+B1FLB3XEe42LTw9BBekjPKrrxm6MtyrT4=
+			PwsVl3DCWwNTyd0LtuQS3wfyuBGMOkttsbpdWQ5Uv/k=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -328,7 +352,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FefcfVEBS+1p/1TAjS4Tjqr8TFG99GTheVOXpCxUfB4=
+			3T7SoGWHal0mNfuu6hbOz7zpbaohpKS5JAI53beTCIE=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/fonts/Poppins-Bold.ttf</key>
@@ -646,6 +670,20 @@
 			au94q8y8rJx3Awo3RRoyyHqcRA/Jdrw8x3/CU6CkA4E=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/images/avatar_default.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e6z4/esDAxVXOVAn5NOYDjKYfEvrgbIW5Ob+8uNqBYQ=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/banner.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H7+TlOQCbBTVdltugvDRiY7HYZbZHJwSQNt9K+PbZXw=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/images/brand_logo.png</key>
 		<dict>
 			<key>hash2</key>
@@ -658,6 +696,13 @@
 			<key>hash2</key>
 			<data>
 			XAfyz/R2Oi2PMUMWxX265haoF1WokIAGdaa2IDdzwLQ=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/dashed_border.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HEuLl1jW7ppc7BZ3DPStszE0vlr/2R9lOnJWBkf+q8o=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/images/designer.png</key>
@@ -679,6 +724,27 @@
 			<key>hash2</key>
 			<data>
 			fbZqGNLbh/SL2d6u6lzxKs60pqh6uvs7qGz1wGvq+x4=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/employer.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rsr0eOLwOj3CF9A/Vc/YPRHo4gfPBfg7/iqIpKgfvJ4=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/find_job.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			P3IrAnGFeJ5rsDNsXqUtnsp1fvQPWr0lAfQ8RuTkzH8=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/free_time.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			71q4W/wPWieMQY8eQDYtIz+W3eBqTrJ8OmbROBkyKdo=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/images/freelance.png</key>
@@ -790,7 +856,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hGupk5by+TD2MCpTyOpSUJAB2GlKBtnNfmPUbpKqmyY=
+			mNfcM3ZZ1AtI3fnUjHB1vQh3FlV+WDZa+hYvWe0vWhk=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

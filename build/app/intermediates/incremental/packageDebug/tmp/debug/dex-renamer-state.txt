@@ -1,4 +1,4 @@
-#Sat Sep 21 19:41:30 UZT 2024
+#Thu Sep 26 10:00:32 UZT 2024
 base.0=/Users/developer/Desktop/flutter_apps/jobizz/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/Users/developer/Desktop/flutter_apps/jobizz/build/app/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
 base.2=/Users/developer/Desktop/flutter_apps/jobizz/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex

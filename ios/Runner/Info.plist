@@ -6,6 +6,10 @@
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
 	<string>Jobee</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Rasm olish uchun kameraga kirish kerak.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Rasm tanlash uchun fotogalereyaga kirish kerak.</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>

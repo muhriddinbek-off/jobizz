@@ -1,0 +1,186 @@
+import 'package:jobee/data/models/profile/employer_profile.dart';
+import 'package:jobee/data/models/profile/user_profile.dart';
+import 'package:jobee/tools/images/app_images.dart';
+
+List<Object> users = [
+  UserProfile(
+    accountName: "Victoria45@gmail.com",
+    name: "Victoria Avila",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  UserProfile(
+    accountName: "Demola67@gmail.com",
+    name: "Demola Andreas",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  UserProfile(
+    accountName: "Ozenua567@gmail.com",
+    name: "Tobi Ozenua",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Apple",
+    accountName: "apple@gmail.com",
+    avatar: AppImages.apple,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Fasebook",
+    accountName: "fasebook@gmail.com",
+    avatar: AppImages.fasebook,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Google",
+    accountName: "google@gmail.com",
+    avatar: AppImages.google,
+    chat: [],
+  ),
+  UserProfile(
+    accountName: "Victoria45@gmail.com",
+    name: "Victoria Avila",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  UserProfile(
+    accountName: "Demola67@gmail.com",
+    name: "Demola Andreas",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  UserProfile(
+    accountName: "Ozenua567@gmail.com",
+    name: "Tobi Ozenua",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Apple",
+    accountName: "apple@gmail.com",
+    avatar: AppImages.apple,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Fasebook",
+    accountName: "fasebook@gmail.com",
+    avatar: AppImages.fasebook,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Google",
+    accountName: "google@gmail.com",
+    avatar: AppImages.google,
+    chat: [],
+  ),
+  UserProfile(
+    accountName: "Victoria45@gmail.com",
+    name: "Victoria Avila",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  UserProfile(
+    accountName: "Demola67@gmail.com",
+    name: "Demola Andreas",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  UserProfile(
+    accountName: "Ozenua567@gmail.com",
+    name: "Tobi Ozenua",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Apple",
+    accountName: "apple@gmail.com",
+    avatar: AppImages.apple,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Fasebook",
+    accountName: "fasebook@gmail.com",
+    avatar: AppImages.fasebook,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Google",
+    accountName: "google@gmail.com",
+    avatar: AppImages.google,
+    chat: [],
+  ),
+  UserProfile(
+    accountName: "Victoria45@gmail.com",
+    name: "Victoria Avila",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  UserProfile(
+    accountName: "Demola67@gmail.com",
+    name: "Demola Andreas",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  UserProfile(
+    accountName: "Ozenua567@gmail.com",
+    name: "Tobi Ozenua",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Apple",
+    accountName: "apple@gmail.com",
+    avatar: AppImages.apple,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Fasebook",
+    accountName: "fasebook@gmail.com",
+    avatar: AppImages.fasebook,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Google",
+    accountName: "google@gmail.com",
+    avatar: AppImages.google,
+    chat: [],
+  ),
+  UserProfile(
+    accountName: "Victoria45@gmail.com",
+    name: "Victoria Avila",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  UserProfile(
+    accountName: "Demola67@gmail.com",
+    name: "Demola Andreas",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  UserProfile(
+    accountName: "Ozenua567@gmail.com",
+    name: "Tobi Ozenua",
+    avatar: AppImages.profile,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Apple",
+    accountName: "apple@gmail.com",
+    avatar: AppImages.apple,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Fasebook",
+    accountName: "fasebook@gmail.com",
+    avatar: AppImages.fasebook,
+    chat: [],
+  ),
+  EmployerProfile(
+    name: "Google",
+    accountName: "google@gmail.com",
+    avatar: AppImages.google,
+    chat: [],
+  ),
+];

@@ -4,6 +4,7 @@ import 'package:jobee/screens/auth/sign_in/sign_in.dart';
 import 'package:jobee/screens/main/main_screen.dart';
 import 'package:jobee/screens/main/screens/category/screens/employer/employer_screen.dart';
 import 'package:jobee/screens/main/screens/category/screens/find_job/find_job_screen.dart';
+import 'package:jobee/screens/main/screens/home/screens/settings/settings_screen.dart';
 import 'package:jobee/screens/onboarding/onboarding_screen.dart';
 import 'package:jobee/screens/splash/splash_screen.dart';
 
@@ -24,6 +25,8 @@ class RoutesScreen {
         return MaterialPageRoute(builder: (_) => const FindJobScreen());
       case RoutesName.employer:
         return MaterialPageRoute(builder: (_) => const EmployerScreen());
+      case RoutesName.settingsScreen:
+        return MaterialPageRoute(builder: (_) => const SettingsScreen());
       default:
         return MaterialPageRoute(builder: (_) => const Scaffold());
     }
@@ -38,4 +41,5 @@ class RoutesName {
   static const String main = "/main";
   static const String findJob = "/find_job";
   static const String employer = "/employer";
+  static const String settingsScreen = "/settings_screen";
 }
